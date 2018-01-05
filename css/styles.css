@@ -7,6 +7,10 @@ h1 {
   float: right;
 }
 
+.pagetop {
+  margin-bottom: 10px;
+}
+
 .pagetop img{
   width: 20%;
   display: block;
