@@ -2,13 +2,15 @@ h1 {
   text-align: center;
 }
 
-img {
-  display: block;
-  margin: auto;
+.col-md-6 img {
+  height: 100px;
+  float: right;
 }
 
 .pagetop img{
   width: 20%;
+  display: block;
+  margin: auto;
 }
 
 .replink {
