@@ -1,0 +1,23 @@
+body {
+  background-color: #79b764;
+}
+div.intro h2{
+  color: #0e6fd1;
+  font-size: 50px;
+  font-family: cursive;
+  text-shadow: 2px 2px #ffffff;
+}
+
+div.intro p{
+  color: #0e6fd1;
+  font-size: 30px;
+  font-family: cursive;
+  text-shadow: 2px 2px #000000;
+}
+.intro img{
+  max-width:20%;
+}
+.latin{
+color:red;
+font-weight: 900;
+}

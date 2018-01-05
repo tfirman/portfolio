@@ -1,0 +1,32 @@
+body {
+  background-color: #17381f;
+}
+
+.sidebar{
+  width: 30%;
+  float: left;
+  border: 2px solid purple;
+  padding: 4px;
+  margin-right: 8px;
+  background-color: #70af80;
+
+}
+
+p {
+  color: white;
+}
+
+img {
+  width: 20%;
+  padding-left: 8px;
+  float: right;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px green;
+}
+h2 {
+  color: white;
+}
