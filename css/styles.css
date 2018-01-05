@@ -14,3 +14,10 @@ img {
 .replink {
   font-size: 70%;
 }
+
+.col-md-4 li {
+  height: 30px;
+}
+.col-md-4 p {
+  height: 20px;
+}
