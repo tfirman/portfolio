@@ -36,7 +36,8 @@ h1 {
 }
 
 .aboutme {
-  padding: 50px
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .aboutme h3 {
